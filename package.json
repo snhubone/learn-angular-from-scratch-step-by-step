@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@angular/animations": "~7.2.0",
     "@angular/cdk": "~7.3.7",
     "@angular/common": "~7.2.0",
@@ -51,5 +52,22 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
+=======
+    "@mean-expert/loopback-sdk-builder": "2.2.5",
+    "compression": "^1.7.2",
+    "cors": "^2.8.2",
+    "helmet": "^3.10.0",
+    "loopback": "^3.25.1",
+    "loopback-boot": "^2.27.1",
+    "loopback-component-explorer": "^5.3.0",
+    "loopback-connector-mongodb": "^4.1.0",
+    "serve-favicon": "^2.0.1",
+    "strong-error-handler": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-loopback": "^8.0.0",
+    "nsp": "^3.2.1"
+>>>>>>> 7edf9a9 (update to latest versions)
   }
 }
